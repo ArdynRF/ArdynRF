@@ -17,6 +17,9 @@ I also posted a college project here, while it's was still in this repository, f
 
 ### Programming Languanges
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming Language" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="44" height="44"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
+
+### Lets Connect!
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40">
  
 
 
